@@ -1,12 +1,12 @@
 <div align="center">
 <img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" alt="Logo Bootcamp" width="80">
 <h1>Santander Bootcamp 2023 <br> Ciência de Dados com Python</h1>
-<img src="https://hermes.dio.me/tracks/03253ff0-95b9-4904-84e7-2063e9d6cb26.png" alt="Logo Bootcamp" width="220">
+<img src="https://hermes.dio.me/tracks/0136518c-68d6-4198-bdbe-6d982c3a1261.png" alt="Logo Bootcamp" width="220">
 </div>
  
- <h1 align="center"> Criando um Relatório de Vendas com Power BI </h1>
+ <h1 align="center"> Relatório de Vendas com Power BI </h1>
 
-Este é um desafio de projeto do **Santander Bootcamp 2023 - Ciência de Dados com Python.** 
+Este é um desafio de projeto do **Coding The Future Squadio - Python Data Analytics** 
 
 Desafio: A proposta é criar um relatório elaborado com base na sample financials do Power BI. 
 
